@@ -1,5 +1,5 @@
 # query-based-prediction-for-multimode-fibers
 
-This repo. is for the paper "Query-Based Neural Network for Long-Range Prediction of Optical Spatio-temporal Dynamics in Multimode Fibers".
+This repository is for the paper "Query-Based Neural Network for Long-Range Prediction of Optical Spatio-temporal Dynamics in Multimode Fibers".
 
-The data and the code are going to be released.
+To maintain the integrity of the peer review process while protecting ongoing research, we plan to share the complete code and dataset following manuscript acceptance or a positive revision outcome. We will ensure reviewers have sufficient information to evaluate the work during the review process.
